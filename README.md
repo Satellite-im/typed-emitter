@@ -14,6 +14,12 @@ yarn add typed-emitter
 
 ## 📖 Usage
 
+### Import
+
+```typescript
+import { Emitter } from "@satellite-im/typed-emitter"
+```
+
 ### Declare event types
 
 ```typescript
