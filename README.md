@@ -7,9 +7,9 @@ Strongly typed event emitter
 Install it locally in your project folder:
 
 ```bash
-npm i typed-emitter
+npm i @satellite-im/typed-emitter
 # Or Yarn
-yarn add typed-emitter
+yarn add @satellite-im/typed-emitter
 ```
 
 ## 📖 Usage
