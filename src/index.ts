@@ -1,0 +1,1 @@
+export {default as Emitter, default} from "./emitter"
