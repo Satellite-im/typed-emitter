@@ -33,7 +33,7 @@
  off<T extends keyof Listeners>(event: T, listenerToRemove: Listeners[T]) {
    if (!this._events[event]) {
      throw new Error(
-       `Can't remove a listener. Event "${event.toString()}" doesn't exits.`,
+       `Can't remove a listener. Event "${event.toString()}" doesn't exist.`,
      )
    }
 
